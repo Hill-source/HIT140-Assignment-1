@@ -1,0 +1,61 @@
+Player ID,Player,Nation,Birth Date,Position,Age,Age Group,Minutes Played,Attacking - Attempts At Goal,Conversion Rate
+423522,Jordan Bos,AUS,2002-10-29,Defender,23,Younger,343.0,5,0
+418729,Carlos Harvey,PAN,2000-02-03,Defender,26,Younger,295.0,5,0
+436612,Denzel Dumfries,NED,1996-04-18,Defender,30,Older,432.0,5,0
+448346,Arthur Theate,BEL,2000-05-25,Defender,26,Younger,268.0,5,0
+441170,Ladislav Krejci,CZE,1999-04-20,Defender,27,Younger,301.0,5,20
+371958,Derek Cornelius,CAN,1997-11-25,Defender,28,Older,351.0,5,0
+430735,Marc Cucurella,ESP,1998-07-22,Defender,27,Younger,857.0,5,0
+448202,Jude Bellingham,ENG,2003-06-29,Midfielder,22,Younger,698.0,19,37
+411375,Rodri,ESP,1996-06-22,Midfielder,29,Older,819.0,7,0
+401894,Jamiro Monteiro,CPV,1993-11-23,Midfielder,32,Older,314.0,5,0
+485740,Neil El Aynaoui,MAR,2001-07-02,Midfielder,24,Younger,634.0,7,0
+448598,Ismael Saibari,MAR,2001-01-28,Midfielder,25,Younger,411.0,10,30
+401444,Youri Tielemans,BEL,1997-05-07,Midfielder,29,Older,538.0,11,18
+441307,Azzedine Ounahi,MAR,2000-04-19,Midfielder,26,Younger,477.0,5,40
+358120,Kevin De Bruyne,BEL,1991-06-28,Midfielder,34,Older,412.0,20,5
+358241,Marcel Sabitzer,AUT,1994-03-17,Midfielder,32,Older,412.0,5,20
+332314,Idrissa Gana Gueye,SEN,1989-09-26,Midfielder,36,Older,411.0,5,0
+401448,Denis Zakaria,SUI,1996-11-20,Midfielder,29,Older,392.0,5,0
+433097,Declan Rice,ENG,1999-01-14,Midfielder,27,Younger,622.0,6,17
+502727,Johan Manzambi,SUI,2005-10-14,Midfielder,20,Younger,220.0,6,50
+481610,Elliot Anderson,ENG,2002-11-06,Midfielder,23,Younger,713.0,7,0
+483161,Mostafa Zico,EGY,1997-04-27,Midfielder,29,Older,398.0,8,25
+404353,Leroy Sane,GER,1996-01-11,Midfielder,30,Older,360.0,6,17
+448103,Fabian Rieder,SUI,2002-02-16,Midfielder,24,Younger,332.0,7,0
+477852,Kevin Pina,CPV,1997-01-27,Midfielder,29,Older,389.0,5,20
+371736,Saeid Ezatolahi,IRN,1996-10-01,Midfielder,29,Older,298.0,6,0
+473113,Eberechi Eze,ENG,1998-06-29,Midfielder,27,Younger,247.0,5,0
+470760,Jhon Arias,COL,1997-09-21,Midfielder,28,Older,405.0,9,11
+431788,Pape Gueye,SEN,1999-01-24,Midfielder,27,Younger,257.0,8,25
+484092,Ismail Yuksek,TUR,1999-01-26,Midfielder,27,Younger,153.0,5,0
+411726,Lucas Paqueta,BRA,1997-08-27,Midfielder,28,Older,255.0,5,0
+353790,Sadio Mane,SEN,1992-04-10,Forward,34,Older,421.0,6,0
+379942,Riyad Mahrez,ALG,1991-02-21,Forward,35,Older,288.0,6,33
+433426,Soufiane Rahimi,MAR,1996-06-02,Forward,30,Older,215.0,6,33
+441316,Yoane Wissa,COD,1996-09-03,Forward,29,Older,409.0,11,27
+405742,Vinicius Junior,BRA,2000-07-12,Forward,25,Younger,505.0,17,24
+463234,Thapelo Maseko,RSA,2003-11-11,Forward,22,Younger,255.0,8,13
+430609,Matheus Cunha,BRA,1999-05-27,Forward,27,Younger,324.0,10,30
+430822,Amad Diallo,CIV,2002-07-11,Forward,23,Younger,211.0,8,25
+418975,Thiago Almada,ARG,2001-04-26,Forward,25,Younger,267.0,5,0
+419652,Erling Haaland,NOR,2000-07-21,Forward,25,Younger,537.0,19,37
+405545,Ferran Torres,ESP,2000-02-29,Forward,26,Younger,349.0,14,7
+398680,Ousmane Dembele,FRA,1997-05-15,Forward,29,Older,648.0,20,30
+448196,Bukayo Saka,ENG,2001-09-05,Forward,24,Younger,411.0,13,23
+477536,Federico Vinas,URU,1998-06-30,Forward,27,Younger,211.0,6,0
+430413,Ayase Ueda,JPN,1998-08-28,Forward,27,Younger,349.0,9,22
+431211,Mousa Altamari,JOR,1997-06-10,Forward,29,Older,230.0,8,13
+363863,Trezeguet,EGY,1994-10-01,Forward,31,Older,204.0,8,13
+448131,Ruben Vargas,SUI,1998-08-05,Forward,27,Younger,314.0,6,33
+430751,Mikel Oyarzabal,ESP,1997-04-21,Forward,29,Older,664.0,23,22
+411367,Kai Havertz,GER,1999-06-11,Forward,27,Younger,392.0,12,25
+475036,Rayan,BRA,2006-08-03,Forward,19,Younger,327.0,5,0
+448310,Kevin Rodriguez,ECU,2000-03-04,Forward,26,Younger,146.0,6,0
+430750,Dani Olmo,ESP,1998-05-07,Forward,28,Older,535.0,13,0
+419020,Gonzalo Plata,ECU,2000-11-01,Forward,25,Younger,407.0,8,13
+358112,Romelu Lukaku,BEL,1993-05-13,Forward,33,Older,279.0,6,50
+201200,Cristiano Ronaldo,POR,1985-02-05,Forward,41,Older,490.0,18,17
+486306,Nestory Irankunda,AUS,2006-02-09,Forward,20,Younger,285.0,6,17
+389867,Kylian Mbappe,FRA,1998-12-20,Forward,27,Younger,769.0,41,24
+344654,Mohamed Salah,EGY,1992-06-15,Forward,33,Older,469.0,9,11
